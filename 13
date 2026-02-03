@@ -1,0 +1,4 @@
+my_tuple=(100,)
+print("single element tuple:",my_tuple)
+
+#comma is a must when a single element is there
