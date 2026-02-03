@@ -1,0 +1,4 @@
+my_tuple1 = (5,10,15,20,25)
+my_tuple2 =(10,15,13,12,11)
+result=my_tuple1+my_tuple2
+print("concatenated tuple:",result)
